@@ -1,0 +1,819 @@
+# depslib dependency file v1.0
+1640052377 source:f:\c\dots and boxes\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1640346955 source:d:\my_project_c\dots and boxes\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640343051 d:\my_project_c\dots and boxes\game_movements.h
+
+1640346956 source:d:\my_project_c\dots and boxes\game_movements.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640305549 d:\my_project_c\dots and boxes\time.h
+
+1640354780 source:d:\my_project_c\dots and boxes\time.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640307632 d:\my_project_c\dots and boxes\sort.h
+
+1640342238 d:\my_project_c\dots and boxes\print.h
+
+1640346955 source:d:\my_project_c\dots and boxes\sort.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354230 source:d:\my_project_c\dots and boxes\print.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640345080 d:\my_project_c\dots and boxes\undo_redo.h
+
+1640345641 d:\my_project_c\dots and boxes\playing_c.h
+
+1640345986 d:\my_project_c\dots and boxes\playing.h
+
+1640354692 source:d:\my_project_c\dots and boxes\playing_c.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:d:\my_project_c\dots and boxes\undo_redo.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346354 d:\my_project_c\dots and boxes\making_grid.h
+
+1640354780 source:d:\my_project_c\dots and boxes\playing.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346699 d:\my_project_c\dots and boxes\start_game.h
+
+1640354230 source:d:\my_project_c\dots and boxes\making_grid.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:d:\my_project_c\dots and boxes\start_game.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346955 d:\my_project_c\dots and boxes\the_game.h
+
+1640354230 source:d:\my_project_c\dots and boxes\the_game.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\game_movements.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640343051 c:\users\lava twins\downloads\telegram desktop\dots and boxes\game_movements.h
+
+1640305549 c:\users\lava twins\downloads\telegram desktop\dots and boxes\time.h
+
+1640307632 c:\users\lava twins\downloads\telegram desktop\dots and boxes\sort.h
+
+1640342238 c:\users\lava twins\downloads\telegram desktop\dots and boxes\print.h
+
+1640345080 c:\users\lava twins\downloads\telegram desktop\dots and boxes\undo_redo.h
+
+1640345641 c:\users\lava twins\downloads\telegram desktop\dots and boxes\playing_c.h
+
+1640345986 c:\users\lava twins\downloads\telegram desktop\dots and boxes\playing.h
+
+1640346354 c:\users\lava twins\downloads\telegram desktop\dots and boxes\making_grid.h
+
+1640346699 c:\users\lava twins\downloads\telegram desktop\dots and boxes\start_game.h
+
+1640346955 c:\users\lava twins\downloads\telegram desktop\dots and boxes\the_game.h
+
+1640346955 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354230 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\making_grid.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354780 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\playing.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354692 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\playing_c.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346955 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\sort.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\start_game.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354230 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\the_game.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354780 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\time.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\undo_redo.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640356509 source:c:\users\lava twins\downloads\telegram desktop\dots and boxes\print.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:f:\dots and boxes\game_movements.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640343051 f:\dots and boxes\game_movements.h
+
+1640305549 f:\dots and boxes\time.h
+
+1640307632 f:\dots and boxes\sort.h
+
+1640342238 f:\dots and boxes\print.h
+
+1640345080 f:\dots and boxes\undo_redo.h
+
+1640345641 f:\dots and boxes\playing_c.h
+
+1640345986 f:\dots and boxes\playing.h
+
+1640346354 f:\dots and boxes\making_grid.h
+
+1640346699 f:\dots and boxes\start_game.h
+
+1640346955 f:\dots and boxes\the_game.h
+
+1640346955 source:f:\dots and boxes\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354230 source:f:\dots and boxes\making_grid.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354780 source:f:\dots and boxes\playing.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354692 source:f:\dots and boxes\playing_c.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640356509 source:f:\dots and boxes\print.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346955 source:f:\dots and boxes\sort.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:f:\dots and boxes\start_game.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354230 source:f:\dots and boxes\the_game.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354780 source:f:\dots and boxes\time.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:f:\dots and boxes\undo_redo.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:f:\dots and boxes final version\game_movements.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640343051 f:\dots and boxes final version\game_movements.h
+
+1640305549 f:\dots and boxes final version\time.h
+
+1640307632 f:\dots and boxes final version\sort.h
+
+1640342238 f:\dots and boxes final version\print.h
+
+1640345080 f:\dots and boxes final version\undo_redo.h
+
+1640345641 f:\dots and boxes final version\playing_c.h
+
+1640345986 f:\dots and boxes final version\playing.h
+
+1640346354 f:\dots and boxes final version\making_grid.h
+
+1640346699 f:\dots and boxes final version\start_game.h
+
+1640346955 f:\dots and boxes final version\the_game.h
+
+1640346955 source:f:\dots and boxes final version\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354230 source:f:\dots and boxes final version\making_grid.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640871481 source:f:\dots and boxes final version\playing.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640871481 source:f:\dots and boxes final version\playing_c.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640364056 source:f:\dots and boxes final version\print.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346955 source:f:\dots and boxes final version\sort.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:f:\dots and boxes final version\start_game.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640871863 source:f:\dots and boxes final version\the_game.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640354780 source:f:\dots and boxes final version\time.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
+1640346956 source:f:\dots and boxes final version\undo_redo.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"game_movements.h"
+	"time.h"
+	"sort.h"
+	"print.h"
+	"undo_redo.h"
+	"playing_c.h"
+	"playing.h"
+	"making_grid.h"
+	"start_game.h"
+	"the_game.h"
+
